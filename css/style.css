@@ -1,0 +1,99 @@
+body {
+  font-family: sans-serif;
+  border: 2px solid #DFE0E4;
+  border-radius: 10px;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#wrapper {
+  margin: 10px;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #E6E6E6;
+  margin: 10px 10px;
+  float: left;
+}
+.name {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  color: #365899;
+  margin-top: 15px;
+}
+.timestamp {
+  text-decoration: none;
+  color: #9999B2;
+  font-size: 20px;
+}
+.header div a {
+  display: inline-block;
+}
+p {
+  font-size: 21px;
+  margin-top: 18px;
+  padding: 12px;
+  color: #9999B2;
+}
+.main-image {
+  width: 758px;
+  height: 350px;
+}
+.event {
+  box-shadow: 1px 1px 5px 5px #EAEAEA;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+.title {
+  font-size: 31px;
+  margin: 15px;
+}
+.author {
+  margin: 15px;
+  margin-top: -10px;
+  font-size: 20px;
+  color: #9999A5;
+}
+.capital {
+  margin: 15px;
+  margin-top: -5px;
+  padding-bottom: 25px;
+  text-transform: uppercase;
+  color: #9999A5;
+}
+.footer {
+  margin: 10px;
+  border-top: 1px solid #999999;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.footer a {
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 25px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #8C7777;
+}
+.like {
+  background-image: url("imgs/like.png");
+  background-size: 18px 18px;
+  background-repeat: no-repeat;
+  background-position: 2% 48%;
+}
+.comment {
+  background-image: url("imgs/comment.png");
+  background-size: 18px 18px;
+  background-repeat: no-repeat;
+  background-position: 2% 48%;
+}
+.share {
+  background-image: url("imgs/share.png");
+  background-size: 18px 18px;
+  background-repeat: no-repeat;
+  background-position: 2% 48%;
+}
+/*# sourceMappingURL=task-1.css.map */
+/*# sourceMappingURL=task-1.css.map */
